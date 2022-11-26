@@ -11,7 +11,7 @@ oop in python consists of two main components
 
 A class in python can be considered to be a representation or template or blueprint for a real world entity
 
-- ### Let us look at a scenario
+### Let us look at a scenario
 
 if we take a real world entity(class ) 'phone'
 
@@ -40,7 +40,7 @@ An object in python can be considered to be specific instance of a class.
 
 So if PHONE is a class, then samsung, iphone and Nokia would be specific instance of the class or in other words 'Objects of the class'
 
-### Example
+### Example(OBJECT AND CLASSES )
 
     class phone:
         def make_call(self):
