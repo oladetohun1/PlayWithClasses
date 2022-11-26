@@ -69,7 +69,7 @@ In the code above we are:
 - similarly, to invoke play_game() method from the phone class,we use ;
   - p1.play_game()
 
-Now,that we have understood how to create a class and an object. Let us go ahead and add parameters to the methods of our class
+### Now,that we have understood how to create a class and an object. Let us go ahead and add parameters to the methods of our class
 
     class Phone:
 
@@ -117,3 +117,22 @@ color=color, we are able to set a color to the attribute ‘color’.
   - make_call(): With this method, we are simply printing out: “Making a phone call”.
 
   - play_game(): With this method, we are printing out: “Playing Game”
+
+### Now that we have created the class, it’s time to instantiate the class and invoke the methods
+
+    p2=Phone()
+
+    p2.set_color(“blue”)
+
+    p2.set_cost(100)
+
+    p2.show_color()
+
+    p2.show_cost()
+
+In the code above we started off by
+
+- instantiating the class Phone: p2=Phone().
+- Once, we have the object, it’s time to go ahead and invoke the methods of the object.
+- By using, p2.set_color(“blue”), we are passing in the value “blue” to the attribute color.
+- Similarly by using, p2.set_cost(100), we are passing in the value 100 to the attribute cost
