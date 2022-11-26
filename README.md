@@ -46,11 +46,26 @@ So if PHONE is a class, then samsung, iphone and Nokia would be specific instanc
         def make_call(self):
             print("Making phone call...")
         def play_game(self):
-            print("Playing a game...")
+            print("Playing game...")
 
 In the code above we have:
 
 - created a new class(phone ) using -> class phone:
 - Inside we created two user-defined functions -> make_call and play_game
+- make_cal() method is just printing out 'maing phone call...'
+-play_game() method is just printing out 'playing game...'
 
-Now that we have created a class, we would have to move a stp further by creating an instance of the class(objects )
+### Now that we have created a class, we would have to move a stp further by creating an instance of the class(objects )
+
+    p1=phone()
+    p1.make_call()
+    p1.play_game()
+
+In the code above we are:
+
+- creating a new object called as p1 with the command: p1=phone().
+- if we would have to invoke the make_call method from the class we use:
+  - p1.make_call()
+- similarly, to invoke play_game() method from the phone class,we use ;
+  - p1.play_game()
+  
