@@ -70,31 +70,32 @@ In the code above we are:
   - p1.play_game()
 
 Now,that we have understood how to create a class and an object. Let us go ahead and add parameters to the methods of our class
+
     class Phone:
 
-    def set_color(self,color):
+        def set_color(self,color):
 
-        self.color=color
+            self.color=color
 
-    def set_cost(self,cost):
+        def set_cost(self,cost):
 
-        self.cost=cost
+            self.cost=cost
 
-    def show_color(self):
+        def show_color(self):
 
-        return self.color
+            return self.color
 
-    def show_cost(self):
+        def show_cost(self):
 
-        return self.cost
+            return self.cost
 
-    def make_call(self):
+        def make_call(self):
 
-        print(“Making phone call”)
+            print(“Making phone call”)
 
-    def play_game(self):
+        def play_game(self):
 
-        print(“Playing Game”)
+            print(“Playing Game”)
 In the code above, we are creating 6 methods:
 
 - set_color()
