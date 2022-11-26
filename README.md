@@ -104,15 +104,15 @@ In the code above, we are creating 6 methods:
 - make_call()
 - play_game()
 
-- set_color(): This method takes in two parameters: self and color. With the code self.
+  - set_color(): This method takes in two parameters: self and color. With the code self.
 color=color, we are able to set a color to the attribute ‘color’.
 
-- set_cost(): This method also takes in two parameters: self and cost. With the code: self.cost=cost, we are able to set a cost value to the attribute ‘cost’.
+  - set_cost(): This method also takes in two parameters: self and cost. With the code: self.cost=cost, we are able to set a cost value to the attribute ‘cost’.
 
-- show_color(): With this method, we are just returning the color of the phone.
+  - show_color(): With this method, we are just returning the color of the phone.
 
-- show_cost(): With this method, we are returning the cost of the phone.
+  - show_cost(): With this method, we are returning the cost of the phone.
 
-- make_call(): With this method, we are simply printing out: “Making a phone call”.
+  - make_call(): With this method, we are simply printing out: “Making a phone call”.
 
-- play_game(): With this method, we are printing out: “Playing Game”
+  - play_game(): With this method, we are printing out: “Playing Game”
