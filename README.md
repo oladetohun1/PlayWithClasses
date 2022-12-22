@@ -138,3 +138,5 @@ In the code above we started off by
 - Similarly by using, p2.set_cost(100), we are passing in the value 100 to the attribute cost
 
 br
+
+just for the streak pol'im admitted in the 
