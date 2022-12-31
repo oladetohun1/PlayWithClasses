@@ -139,4 +139,4 @@ In the code above we started off by
 
 br
 
-just for the streak pol'im admitted in the 
+just for a reminder to continue your study here
