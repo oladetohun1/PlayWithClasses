@@ -34,6 +34,8 @@ The class would have two things associated with it;
 
 N.B: When the properties and behaviour are combined together we have a class
 
+
+
 ## Objects
 
 An object in python can be considered to be specific instance of a class.
