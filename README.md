@@ -138,7 +138,3 @@ In the code above we started off by
 - Once, we have the object, it’s time to go ahead and invoke the methods of the object.
 - By using, p2.set_color(“blue”), we are passing in the value “blue” to the attribute color.
 - Similarly by using, p2.set_cost(100), we are passing in the value 100 to the attribute cost
-
-br
-
-just for a reminder to continue your study here, omo
