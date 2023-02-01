@@ -138,4 +138,19 @@ In the code above we started off by
 - Once, we have the object, it’s time to go ahead and invoke the methods of the object.
 - By using, p2.set_color(“blue”), we are passing in the value “blue” to the attribute color.
 - Similarly by using, p2.set_cost(100), we are passing in the value 100 to the attribute cost
-.
+
+## The init Method
+
+The __init__ method is run as soon as an object of a class is instantiated (i.e. created). The method is useful to do any initialization (i.e. passing initial values to your object) you want to do with your object. Notice the double underscores both at the beginning and at the end of the name.
+
+    class Person:
+        def __init__(self, name):
+            self.name = name
+
+        def greet(self):
+            print('Hello, my name is', self.name)
+
+    p = Person('Swaroop')
+    p.say_hi()
+    # The previous 2 lines can also be written as
+    # Person('Swaroop').say_hi()
