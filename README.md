@@ -166,7 +166,7 @@ There are two types of fields;
 **_Class Variables_** :
 ---
 ### This is my personal study and practice on oop with python, if you  read through and you enjoyed it. kindly give me a star at least for the effort and knowledge gained :smiley:. Thank you :raised_hands:
-##  :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
+##  :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 [click here to go Back to top of page ](#classes-and-objects-in-python) :point_up:
  
