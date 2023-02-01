@@ -154,3 +154,18 @@ The __init__ method is run as soon as an object of a class is instantiated (i.e.
     p.greet()
     # The previous 2 lines can also be written as
     # Person('Swaroop').greet()
+
+
+## Class And Object Variables
+This is where we talk about the data part i.e fields. fields are ordinary vvariables that are bound to the namespaces of the classes and objects. This means that the variable names are valid within the contexts of the classes and objects only.This is why they are also called name spaces.
+
+There are two types of fields;
+- Class Variables
+- Object variables
+
+**_Class Variables_** :
+
+
+
+[Back to top ](#classes and objects in python) :point_up:
+ 
