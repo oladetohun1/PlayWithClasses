@@ -162,11 +162,8 @@ This is where we talk about the data part i.e fields. fields are ordinary vvaria
 There are two types of fields;
 - Class Variables
 - Object variables
-
-**_Class Variables_** :
----
-### This is my personal study and practice on oop with python, if you  read through and you enjoyed it. kindly give me a star at least for the effort and knowledge gained :smiley:. Thank you :raised_hands:
-##  :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
+- 
+i am lazy to type so i would stop here, check codes for more implementation
 
 [click here to go Back to top of page ](#classes-and-objects-in-python) :point_up:
  
